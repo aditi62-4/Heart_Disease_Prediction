@@ -39,32 +39,6 @@ HeartDisease_Prediction/
 └── README.md
 ```
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/HeartDisease_Prediction.git
-```
-
-Move into the project folder:
-
-```bash
-cd HeartDisease_Prediction
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
-
 ## Input Features
 
 The model uses the following medical features:
@@ -88,17 +62,14 @@ The model uses the following medical features:
 * High Risk of Heart Disease
 * Low Risk of Heart Disease
 
-## Deployment
 
-This project can be deployed using Streamlit Cloud.
+## Live Demo of the Project
 
-Steps:
+Click here to use the project :-  https://aditi62-4-heart-disease-prediction-app-otn6yz.streamlit.app/
 
-1. Push all files to GitHub
-2. Open Streamlit Cloud
-3. Connect GitHub repository
-4. Select `app.py`
-5. Click Deploy
+## Github Repository
+Heart Disease Prediction Github repo link:-  https://github.com/aditi62-4/Heart_Disease_Prediction
+
 
 
 
